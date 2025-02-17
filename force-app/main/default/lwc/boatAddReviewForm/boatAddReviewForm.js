@@ -31,6 +31,7 @@ export default class BoatAddReviewForm extends LightningElement {
     }
     set recordId(value) {
       //sets boatId attribute
+      //test
       this.setAttribute('boatId', value);        
     //test changes
 
