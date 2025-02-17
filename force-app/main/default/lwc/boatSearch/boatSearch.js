@@ -15,7 +15,7 @@ import { NavigationMixin } from 'lightning/navigation';
     handleDoneLoading() { 
         this.isLoading = false;
     }
-    
+    //testchanges
     // Handles search boat event
     // This custom event comes from the form
     searchBoats(event) { 
